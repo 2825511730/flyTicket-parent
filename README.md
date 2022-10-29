@@ -9,6 +9,8 @@
 
 运行教程：[《基于Web的机票管理系统运行教程》](https://mp.weixin.qq.com/s/L0Q1dUzOSckPxpURsUu6Eg)
 
+演示截图：[《基于Web的机票管理系统演示截图》](https://blog.csdn.net/m0_73470247/article/details/126772569)
+
 毕设项目源码大全：[毕业设计、课程设计项目源码领取](https://mp.weixin.qq.com/mp/homepage?__biz=MzkyMDAxNTQ4NQ==&hid=5&sn=097a81acff1e1971604ea1b571c13b9e&scene=18)
 
 
